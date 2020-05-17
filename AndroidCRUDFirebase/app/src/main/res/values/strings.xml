@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Firebase CRUD</string>
+    <string name="btn_view">VIEW</string>
+    <string name="btn_input">INPUT</string>
+    <string name="btn_update">UPDATE</string>
+    <string name="btn_delete">DELETE</string>
+    <string name="dump_harga_barang">Harga Barang</string>
+    <string name="dump_nama_barang">Nama Barang</string>
+    <string name="dump_kode_barang">Kode Barang</string>
+    <string name="title_input_data">INPUT DATA BARANG</string>
+    <string name="title_detil_data">DETAIL DATA DARANG</string>
+</resources>
